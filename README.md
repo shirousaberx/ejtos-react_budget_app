@@ -1,3 +1,3 @@
 # coding-project-template
 
-finished version
+finished version including final assignment
